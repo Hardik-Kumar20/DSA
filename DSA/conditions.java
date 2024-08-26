@@ -44,21 +44,29 @@ public class conditions {
 
             //find the occurence of particular digit in a number
 
-            System.out.println("Enter the number");
-            long number = sc.nextInt();
-            System.out.println("which number occurence you want to check ::");
-            int n = sc.nextInt();
-            int count = 0;
+            // System.out.println("Enter the number");
+            // long number = sc.nextInt();
+            // System.out.println("which number occurence you want to check ::");
+            // int n = sc.nextInt();
+            // int count = 0;
             
-            while (number > 0) {
-                long a = number % 10;
-                if(a == n){
-                    count++;
-                }
-                number =number/10;
-            }
-            System.out.println("The number " +n + " ocuurs " +count + " times");
+            // while (number > 0) {
+            //     long a = number % 10;
+            //     if(a == n){
+            //         count++;
+            //     }
+            //     number =number/10;
+            // }
+            // System.out.println("The number " +n + " ocuurs " +count + " times");
     
+        
+
+
+            //reversing a integer
+             
+
+        
+        
         }
 
 
